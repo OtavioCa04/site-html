@@ -1,0 +1,245 @@
+
+    a {
+                text-decoration: none;
+                color: #000000;
+                font-size: 35px;
+}
+    td{
+                background-color: white;
+}
+
+body{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.container{
+    background-color: white;
+    margin: 0 225px 0 225px;
+    display: flex;
+    flex-flow: row wrap;
+}
+h1{
+    background-color: white;
+    margin: 0 271px 0 271px;
+}
+
+.contato{
+    width: 1361px;
+    height: 1000px;
+    overflow: hidden;
+    background-color: #000000;
+    border-radius: 25px;
+}
+
+.contato p{
+    color: white;
+}
+
+.contato a{
+    color: white;
+}
+
+.catalogo {
+    width: 1361px;
+    margin-top: 75px;
+    height: 1000px;
+    overflow: hidden;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.catalogo img#img1{
+    max-width: 400px;
+    display: inline-block;
+    margin-top: 30px;
+}
+.catalogo img#img2{
+    width: 400px;
+    height: 225px;
+    margin-top: 30px;
+}
+.catalogo img#img3{
+    width: 400px;
+    height: 225px;
+    margin-top: 30px;
+}
+
+.catalogo img#img4{
+    width: 400px;
+    height: 225px;
+    margin-top: 30px;
+}
+.catalogo img#img5{
+    width: 400px;
+    height: 225px;
+    margin-top: 30px;
+}
+
+.catalogo img#img6{
+    width: 400px;
+    height: 225px;
+    margin-top: 30px;
+}
+.fort{
+    width: 425px;
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    height: 430px;
+}
+
+.fifa{
+    width: 425px;
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    height: 430px;
+}
+
+.kratos{
+    width: 425px;
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    height: 430px;
+}
+
+.miles{
+    width: 425px;
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    height: 430px;
+    margin-top: 40px;
+}
+
+.spider{
+    width: 425px;
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    height: 430px;
+    margin-top: 40px;
+}
+
+.cyber{
+    width: 425px;
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    height: 430px;
+    margin-top: 40px;
+}
+
+.fort p{
+    margin: 0;
+    color: white;
+}
+
+.fifa p{
+    margin: 0;
+    color: white;
+}
+
+.kratos p{
+    margin: 0;
+    color: white;
+}
+
+.miles p{
+    margin: 0;
+    color: white;
+}
+
+.spider p{
+    margin: 0;
+    color: white;
+}
+
+.cyber p{
+    margin: 0;
+    color: white;
+}
+
+.fort a{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 2px;
+    font-size: 30px;
+}
+.fifa a{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 2px;
+    font-size: 30px;
+}
+
+.kratos a{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 2px;
+    font-size: 30px;
+}
+
+.miles a{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 2px;
+    font-size: 30px;
+}
+
+.spider a{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 2px;
+    font-size: 30px;
+}
+
+.cyber a{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 2px;
+    font-size: 30px;
+}
+.infos{
+    background-color: #000000;
+    border-radius: 10px;
+    height: 1000px;
+}
+
+.fatos{
+    background-color: #000000;
+    border-radius: 10px;
+    height: 900px;
+}
+
+.fatos p#p1{
+    color: white;
+    font-size: 40px;
+}
+
+.fatos p{
+    color: white;
+    font-size: 20px;
+}
+
+.infos p#p1{
+    color: white;
+    font-size: 40px;
+}
+
+.infos p{
+    color: white;
+    font-size: 20px;
+}
+
+
